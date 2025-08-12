@@ -1,0 +1,7 @@
+account_id,customer_id,account_type,balance,branch
+1,1,Savings,55000,Mumbai Central
+2,1,Current,120000,Mumbai Central
+3,2,Savings,75000.5,Delhi Main
+4,3,Savings,32000,Pune City
+5,4,Current,150000.75,Bangalore South
+6,5,Savings,25000,Chennai North

@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,email,phone,city
+1,Amit,Sharma,amit.sharma@example.com,9876543210,Mumbai
+2,Priya,Verma,priya.verma@example.com,9876501234,Delhi
+3,Rohan,Patil,rohan.patil@example.com,9823456789,Pune
+4,Neha,Singh,neha.singh@example.com,9898123456,Bangalore
+5,Vikram,Mehta,vikram.mehta@example.com,9812345678,Chennai
